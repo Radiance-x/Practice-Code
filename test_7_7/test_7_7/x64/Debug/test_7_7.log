@@ -1,0 +1,3 @@
+﻿  源2.c
+源2.obj : error LNK2005: main 已经在 源.obj 中定义
+F:\Code\test_7_7\x64\Debug\test_7_7.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
